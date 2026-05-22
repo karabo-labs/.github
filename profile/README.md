@@ -13,7 +13,7 @@
 
 ## The Thesis
 
-DevOps and MLOps aren't two disciplines — they're one pipeline. The same rigor you apply to CI/CD, IaC, and observability applies to model training, deployment, and drift monitoring. **karabo-labs** exists to prove that thesis with real infrastructure, real CI pipelines, and real deployed models — all on a single €9/mo Hetzner VPS.
+DevOps and MLOps aren't two disciplines — they're one pipeline. The same rigor you apply to CI/CD, IaC, and observability applies to model training, deployment, and drift monitoring. **karabo-labs** exists to prove that thesis with real infrastructure, real CI pipelines, and real deployed models — all on a single Hetzner VPS.
 
 Everything here runs through a **self-hosted GitHub Actions runner** on that VPS. Every repo, every PR, every deploy — it's all real, all observable, all automated.
 
