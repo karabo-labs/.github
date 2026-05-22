@@ -1,6 +1,6 @@
 # karabo-labs
 
-**Production-grade DevOps & MLOps infrastructure. Built from scratch. Running on a €9/mo VPS.**
+**Production-grade DevOps & MLOps infrastructure. Built from scratch.
 
 [![Self-Hosted Runner](https://img.shields.io/badge/CI-Self--Hosted-2ea44f?logo=githubactions)](https://github.com/karabo-labs)
 [![K3s](https://img.shields.io/badge/K3s-Production-FFC61C?logo=k3s)](https://github.com/karabo-labs/k3s-cluster)
