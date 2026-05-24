@@ -94,7 +94,7 @@ Everything here runs through a **self-hosted GitHub Actions runner** on that VPS
 | **Repos** | 8 public, all running through self-hosted CI |
 | **CI/CD** | 100% GitHub Actions, self-hosted runner on VPS |
 | **Cluster** | Single-node K3s with ArgoCD GitOps, cert-manager, Prometheus/Grafana |
-| **Cloud** | Hetzner CX33 — 4 vCPU, 8GB RAM, 80GB SSD — €9.19/mo |
+| **Cloud** | Hetzner CX33 — 4 vCPU, 8GB RAM, 80GB SSD |
 | **Location** | Johannesburg, South Africa (POPIA-compliant) |
 | **MLflow** | Experiment tracking server on the same VPS |
 | **Monitoring** | Netdata + Prometheus + Grafana + custom dashboards |
